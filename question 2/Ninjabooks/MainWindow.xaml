@@ -1,0 +1,17 @@
+﻿<Window x:Class="MainWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="ninja stuff" Height="450" Width="600">
+    <Grid Margin="15">
+        <ItemsControl Name="bookList" Height="525" Width="350" Margin="0,-90,0,0">
+            <ItemsControl.RenderTransform>
+                <RotateTransform Angle="-90" CenterX="175" CenterY="260"></RotateTransform>
+            </ItemsControl.RenderTransform>
+            <ItemsControl.ItemTemplate>
+                <DataTemplate>
+                    <TextBlock Text="{Binding .}" TextAlignment="Right" Background="Brown" Foreground="White" FontSize="12" Margin="3" Padding="2" />
+                </DataTemplate>
+            </ItemsControl.ItemTemplate>
+        </ItemsControl>
+    </Grid>
+</Window>

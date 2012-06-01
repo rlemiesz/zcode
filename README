@@ -1,1 +1,13 @@
-Question 1- 
+Question 1- The homepage is index.html  All linked pages are getoutofdodge.html (page 2), ways to kill.html (page 3), and tipsandtricks.html (page 4)
+I did use a template for the responsive web design part. You can find it at www.getskeleton.com
+I edited skeleton and added/removed things I wanted/didn't want.
+
+Question 2- I found a program called Microsoft Visual Studio 2010, which, after using the express version to edit the question 1 html more readily, I used to create the books for the question 2 answer.
+I did look up pretty much everything for the books part, especially rotating and alphabetizing them.
+The main .exe file to run the bookcase (if you can call it that) is under \Question 2\Ninjabooks\bin\Debug\Ninjabooks.exe
+The code for said .exe is Ninjabooks.vbproj which is under \question 2\Ninjabooks
+
+Question 3- Pretty self explanatory. I simply typed it up, and then edited it to my liking. The answer is the only file in the folder, which is \question 3\Dragon Zoo.docx
+
+Question 4- Again, pretty simple. It took much less time to type this one, because I already knew what I wanted to say in it.
+Answer is under \Question 4\Question 4.docx

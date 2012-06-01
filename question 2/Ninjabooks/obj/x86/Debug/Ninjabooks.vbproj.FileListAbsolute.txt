@@ -1,0 +1,30 @@
+C:\Users\Robert\documents\visual studio 2010\Projects\Ninjabooks\Ninjabooks\bin\Debug\Ninjabooks.exe
+C:\Users\Robert\documents\visual studio 2010\Projects\Ninjabooks\Ninjabooks\bin\Debug\Ninjabooks.pdb
+C:\Users\Robert\documents\visual studio 2010\Projects\Ninjabooks\Ninjabooks\bin\Debug\Ninjabooks.xml
+C:\Users\Robert\documents\visual studio 2010\Projects\Ninjabooks\Ninjabooks\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Robert\documents\visual studio 2010\Projects\Ninjabooks\Ninjabooks\obj\x86\Debug\MainWindow.baml
+C:\Users\Robert\documents\visual studio 2010\Projects\Ninjabooks\Ninjabooks\obj\x86\Debug\MainWindow.g.vb
+C:\Users\Robert\documents\visual studio 2010\Projects\Ninjabooks\Ninjabooks\obj\x86\Debug\Application.g.vb
+C:\Users\Robert\documents\visual studio 2010\Projects\Ninjabooks\Ninjabooks\obj\x86\Debug\Ninjabooks_MarkupCompile.cache
+C:\Users\Robert\documents\visual studio 2010\Projects\Ninjabooks\Ninjabooks\obj\x86\Debug\Ninjabooks.g.resources
+C:\Users\Robert\documents\visual studio 2010\Projects\Ninjabooks\Ninjabooks\obj\x86\Debug\Ninjabooks.Resources.resources
+C:\Users\Robert\documents\visual studio 2010\Projects\Ninjabooks\Ninjabooks\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Robert\documents\visual studio 2010\Projects\Ninjabooks\Ninjabooks\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Robert\documents\visual studio 2010\Projects\Ninjabooks\Ninjabooks\obj\x86\Debug\Ninjabooks.exe
+C:\Users\Robert\documents\visual studio 2010\Projects\Ninjabooks\Ninjabooks\obj\x86\Debug\Ninjabooks.xml
+C:\Users\Robert\documents\visual studio 2010\Projects\Ninjabooks\Ninjabooks\obj\x86\Debug\Ninjabooks.pdb
+C:\Users\Robert\zcode\question 2\Ninjabooks\obj\x86\Debug\Ninjabooks.exe
+C:\Users\Robert\zcode\question 2\Ninjabooks\obj\x86\Debug\Ninjabooks.xml
+C:\Users\Robert\zcode\question 2\Ninjabooks\obj\x86\Debug\Ninjabooks.pdb
+C:\Users\Robert\zcode\question 2\Ninjabooks\bin\Debug\Ninjabooks.exe
+C:\Users\Robert\zcode\question 2\Ninjabooks\bin\Debug\Ninjabooks.pdb
+C:\Users\Robert\zcode\question 2\Ninjabooks\bin\Debug\Ninjabooks.xml
+C:\Users\Robert\zcode\question 2\Ninjabooks\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Robert\zcode\question 2\Ninjabooks\obj\x86\Debug\MainWindow.baml
+C:\Users\Robert\zcode\question 2\Ninjabooks\obj\x86\Debug\MainWindow.g.vb
+C:\Users\Robert\zcode\question 2\Ninjabooks\obj\x86\Debug\Application.g.vb
+C:\Users\Robert\zcode\question 2\Ninjabooks\obj\x86\Debug\Ninjabooks_MarkupCompile.cache
+C:\Users\Robert\zcode\question 2\Ninjabooks\obj\x86\Debug\Ninjabooks.g.resources
+C:\Users\Robert\zcode\question 2\Ninjabooks\obj\x86\Debug\Ninjabooks.Resources.resources
+C:\Users\Robert\zcode\question 2\Ninjabooks\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Robert\zcode\question 2\Ninjabooks\obj\x86\Debug\GenerateResource.write.1.tlog
